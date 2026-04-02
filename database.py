@@ -11,7 +11,7 @@ def init_db():
     # Delete if exists to refresh dummy data on start
     try:
         client.delete_collection(name=collection_name)
-    except ValueError:
+    except Exception:
         pass
     
     collection = client.create_collection(

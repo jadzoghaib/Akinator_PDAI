@@ -15,3 +15,4 @@ sentence-transformers
 soundfile
 pandas
 python-dotenv
+audiorecorder
