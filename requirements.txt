@@ -1,0 +1,17 @@
+fastapi
+python-multipart
+uvicorn
+streamlit
+audio-recorder-streamlit
+transformers
+torch
+torchaudio
+langchain
+langchain-community
+langchain-huggingface
+huggingface_hub
+chromadb
+sentence-transformers
+soundfile
+pandas
+python-dotenv

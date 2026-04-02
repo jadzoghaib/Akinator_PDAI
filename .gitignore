@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environment secrets
+.env
+
+# Local runtime data
+temp_audio/
+
+# Local vector DB persistence
+chroma_db/
